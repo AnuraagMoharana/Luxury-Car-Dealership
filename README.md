@@ -1,3 +1,4 @@
+
 # AURA MOTORS — Interactive 3D Luxury Car Showcase
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -15,11 +16,11 @@ Browse vehicles, inspect performance specifications, rotate cars in 360°, and e
 ## ✨ Preview
 
 <p align="center">
-  <img src="assets/aura-motors-featured-machine.webp" alt="AURA MOTORS Featured Machine" width="900">
+  <img width="1497" height="820" alt="Screenshot 2026-09-10 194142" src="https://github.com/user-attachments/assets/c1450031-5b69-4b36-89eb-bd6ba891cfc1" />
 </p>
 
 <p align="center">
-  <img src="assets/aura-motors-homepage.webp" alt="AURA MOTORS Homepage and Interactive 3D Experience" width="900">
+  <img width="1516" height="821" alt="Screenshot 2026-09-10 194209" src="https://github.com/user-attachments/assets/b9c78c38-3df0-4f3c-afaf-463f77884733" />
 </p>
 
 ---
