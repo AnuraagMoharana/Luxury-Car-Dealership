@@ -14,21 +14,13 @@ Browse vehicles, inspect performance specifications, rotate cars in 360°, and e
 
 ## ✨ Preview
 
-> Replace the placeholder below with a screenshot, demo GIF, or video of the application.
+<p align="center">
+  <img src="assets/aura-motors-featured-machine.webp" alt="AURA MOTORS Featured Machine" width="900">
+</p>
 
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│                    AURA MOTORS — SHOWROOM                           │
-│                                                                     │
-│                     🚘 Interactive 3D Car                           │
-│                                                                     │
-│              Drag ↔ Rotate     Scroll ↕ Zoom                       │
-│                                                                     │
-│                    [ ADD SCREENSHOT HERE ]                          │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="assets/aura-motors-homepage.webp" alt="AURA MOTORS Homepage and Interactive 3D Experience" width="900">
+</p>
 
 ---
 
@@ -152,9 +144,8 @@ Luxury-Car-Dealership/
 ├── README.md
 │
 └── assets/
-    ├── car-one.glb
-    ├── car-two.glb
-    └── car-three.glb
+    ├── aura-motors-featured-machine.webp
+    └── aura-motors-homepage.webp
 ```
 
 > The current implementation can also load publicly hosted `.glb` assets directly, so the `assets/` directory is optional unless you want to self-host your models.
